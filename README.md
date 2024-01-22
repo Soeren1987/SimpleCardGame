@@ -1,2 +1,2 @@
 # SimpleCardGame
-Simple card game
+Simple card game from school time 
